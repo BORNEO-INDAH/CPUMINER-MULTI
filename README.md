@@ -1,0 +1,2 @@
+# CPUMINER-MULTI
+CPU dan GPU
